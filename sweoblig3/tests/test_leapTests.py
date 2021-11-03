@@ -11,7 +11,7 @@ def test_DivisibleBy400():
 
 
 def test_NotDivisibleBy4():
-    assert leapYear(1600) % 4 == False
+    assert leapYear(1598) % 4 == False
 
 
 def test_DivisibleBy100Not400():
