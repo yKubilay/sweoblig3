@@ -1,7 +1,7 @@
 # Should pass as 2000 is in fact a leap year
 import pytest
 
-from leapYear import leapYear
+from sweoblig3.leapYear import leapYear
 
 def test_DivisibleBy4Not100():
     assert leapYear(1800) % 4 == 0 and leapYear(1800) % 100 == False
