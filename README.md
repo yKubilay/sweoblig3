@@ -1,7 +1,6 @@
 # sweoblig3
 Repository for oblig 3 running github actions 
 
-![Uploading 4b8f4bbc39ed3ade8639c9a91110b54b.png…]()
 
 Kort forklaring:
 
